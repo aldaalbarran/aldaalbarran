@@ -18,7 +18,7 @@
 Egresado de ingeniería en sistemas computacionales, con una pasión por las tecnologías web con 1 año de experiencia en el campo. Soy una persona a la que le gusta estar en constante aprendizaje.
 
 - 22 años
-- Hobbies: 📖 Leer | 🎧 Escuchar Música | 🚴 Ciclismo
+- Hobbies: 📖 Leer | 🎧 Escuchar Música | 🚴 Ciclismo | 🎨 Ilustración Digital
 - Ubicación: Toluca, México
 - Mi lema de vida: "Si vas por la vida solo haciendo las cosas en las que eres bueno, te vas a perder la mitad de ella"
 
