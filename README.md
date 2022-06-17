@@ -7,13 +7,6 @@
     🖥️ Ingeniero en Sistemas Computacionales | Desarrollador Web 👨‍💻
 </h2>
 
-<p align="center">
-    <a href="mailto:aldaalbarran.dev@gmail.com"><img width="32px" alt="Gmail" title="aldaalbarran.dev@gmail.com" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/email_icon_130945.png"/></a>
-    <a href="https://www.linkedin.com/in/aldaalbarran/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png"/></a>
-    <a href="https://twitter.com/aldaalbarran"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579583-yumminkysocialmedia02_83111.png"/></a>
-    <a href="https://www.instagram.com/aldaalbarran.dev/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png"/></a>
-</p>
-
 ### 🚀 Sobre mí
 Egresado de ingeniería en sistemas computacionales, con una pasión por las tecnologías web con 1 año de experiencia en el campo. Soy una persona a la que le gusta estar en constante aprendizaje.
 
