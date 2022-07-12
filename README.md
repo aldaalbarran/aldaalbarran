@@ -35,7 +35,6 @@ Egresado de ingeniería en sistemas computacionales, con una pasión por las tec
 ![Git](https://img.shields.io/badge/Git-F1202F?style=for-the-badge&logo=Git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=VisualStudioCode&logoColor=FFFFFF)
-![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F47F24?style=for-the-badge&logo=StackOverflow&logoColor=FFFFFF)
 
 #### 🌱 Aprendiendo 
 ![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=Vue.js&logoColor=34495E)
