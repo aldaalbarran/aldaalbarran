@@ -20,16 +20,13 @@ Egresado de ingeniería en sistemas computacionales, con una pasión por las tec
 #### 📌 Lenguajes de programación, estilos y maquetación
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=000000)
 ![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=PHP&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-EC2023?style=for-the-badge&logo=Java&logoColor=FFFFFF)
-![LabView](https://img.shields.io/badge/LabView-f2ce1b?style=for-the-badge&logo=LabView&logoColor=000000)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=FFFFFF)
 
 #### 📌 Frameworks y librerías
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=Laravel&logoColor=FFFFFF)
-![Arduino](https://img.shields.io/badge/Arduino-3186A0?style=for-the-badge&logo=Arduino&logoColor=FFFFFF)
 
 #### 📌 Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
@@ -42,3 +39,4 @@ Egresado de ingeniería en sistemas computacionales, con una pasión por las tec
 
 #### 🌱 Aprendiendo 
 ![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=Vue.js&logoColor=34495E)
+![Node.js](https://img.shields.io/badge/Node.js-6CC24A?style=for-the-badge&logo=Node.js&logoColor=FFFFFF)
