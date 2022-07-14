@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
 ### 👨‍💻 Sobre mí
-* 📍 Vivo en Toluca, México 🇲🇽.
+* 📍 Vivo en Toluca, México.
 * 🧒 Tengo 22 años.
 * 🎓 Soy egresado de la carrera de Ingeniería en Sistemas Computacionales.
 * 👨‍💻 Me especializo en el Desarrollo Web.
